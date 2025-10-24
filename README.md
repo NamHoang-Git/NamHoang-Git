@@ -18,7 +18,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [🍔 Restaurant Website](https://github.com/NamHoang-Git/EatEase_restaurant) | Full-stack web app for restaurant management | MERN |
-| [🛍️ Tech Store](https://github.com/NamHoang-Git/Ecommerce_SHOP_Full_Stack) | E-commerce platform for electronics | MERN |
+| [🛍️ Tech Store](https://github.com/NamHoang-Git/tech_ecomspace_shop_fullstack) | E-commerce platform for electronics | MERN |
 
 ---
 
