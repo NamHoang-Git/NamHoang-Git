@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm NamHoang!
 
-<!--
-**NamHoang-Git/NamHoang-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-stack Developer | MERN Enthusiast**  
+🎯 Passionate about building modern web apps with clean architecture and great UX.  
+🌱 Currently learning: Cloud deployment & DevOps basics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+💬 Languages: **JavaScript**  
+🧩 Frameworks: **React, Node.js, Express, Laravel**  
+🗄️ Databases: **MongoDB, MySQL**  
+☁️ Cloud & Tools: **Git, Docker, Vercel, Firebase**
+
+---
+
+## 🧩 Featured Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| [🍔 Restaurant Website](https://github.com/NamHoang-Git/EatEase_restaurant) | Full-stack web app for restaurant management | MERN |
+| [🛍️ Tech Store](https://github.com/NamHoang-Git/Ecommerce_SHOP_Full_Stack) | E-commerce platform for electronics | MERN |
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/namdev123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://namdev123.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngokhoangnam4268@gmail.com)
